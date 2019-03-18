@@ -17,20 +17,20 @@ font-size: 45px;}
 border-radius: 50%;}
 
 /* celle grigie */
-.grigio{background-color: #c4beb6;
+.email-container > .email, .unread{background-color: #c4beb6;
 border: 1px solid black;}
 
 /* cella bianca */
-.bianco{background-color: #fff;
+.email-container > .read{background-color: #fff;
 border: 1px solid black;}
 
 /* frase finale centrata */
-#grosso{margin-left: 250px;
-font-size: 45px;
-font-weight: bold;
-color: #fff;}
 
-#corsivo{font-size: 25px;
+footer {text-align: center;
+font-size: 25px;
 font-style: italic;
 font-weight:bold;
 color: #fff;}
+
+footer > span {font-size: 45px;
+margin-right: 2px;}
