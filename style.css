@@ -8,9 +8,13 @@ header > img  {width: 250px;}
 header > span {color: #fff;
 font-size: 45px;}
 
+.white{color: #fff;
+font-size: 45px;}
+
+
 /* numero cerchiato */
-#num{background-color: #e89025;
-border-radius: 30px;}
+.white > span{background-color: #e89025;
+border-radius: 50%;}
 
 /* celle grigie */
 .grigio{background-color: #c4beb6;
