@@ -3,8 +3,10 @@ body{background-image: url(sfondo.jpg);}
 .contenitore{width: 800px;
 margin: auto;}
 
-.white{color: #fff;
-font-size: 45px}
+header > img  {width: 250px;}
+
+header > span {color: #fff;
+font-size: 45px;}
 
 /* numero cerchiato */
 #num{background-color: #e89025;
