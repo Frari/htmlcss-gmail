@@ -1,0 +1,30 @@
+body{background-image: url(sfondo.jpg);}
+
+.contenitore{width: 800px;
+margin: auto;}
+
+.white{color: #fff;
+font-size: 45px}
+
+/* numero cerchiato */
+#num{background-color: #e89025;
+border-radius: 30px;}
+
+/* celle grigie */
+.grigio{background-color: #c4beb6;
+border: 1px solid black;}
+
+/* cella bianca */
+.bianco{background-color: #fff;
+border: 1px solid black;}
+
+/* frase finale centrata */
+#grosso{margin-left: 250px;
+font-size: 45px;
+font-weight: bold;
+color: #fff;}
+
+#corsivo{font-size: 25px;
+font-style: italic;
+font-weight:bold;
+color: #fff;}
